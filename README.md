@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Washira
 - 👀 I’m interested in any IT fields.
 - 💞️ I’m in love to see new tech stack.
-- 🌱 I’m currently learning web app and mobile application development.
+- 🌱 I’m currently full-stack developer.
 - 📫 See my blogs site https://toupawa.com
 
 <!---
