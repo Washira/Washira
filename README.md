@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Washira
-- 👀 I’m interested in being a software developer.
-- 🌱 I’m currently learning web and mobile application development.
-- 💞️ I’m looking to collaborate on any tech team.
+- 👀 I’m interested in any IT fields.
+- 💞️ I’m in love to see new tech stack.
+- 🌱 I’m currently learning web app and mobile application development.
 - 📫 See my blogs site https://toupawa.com
 
 <!---
