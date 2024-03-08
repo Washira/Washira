@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Nest.js Angular**
 
-- 👨‍💻 All of my projects are available at [https://toupawa.com](https://toupawa.com)
-
 - 📝 I regularly write articles on [https://toupawa.com](https://toupawa.com)
 
 - 💬 Ask me about **Next.js React.js Node.js**
